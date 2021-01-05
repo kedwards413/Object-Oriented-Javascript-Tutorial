@@ -53,7 +53,7 @@
         {
             "slug": "03-Create-new-class",
             "title": "03-Create-new-class",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Create-new-class",
             "translations": [
                 "us"
@@ -63,7 +63,7 @@
         {
             "slug": "04-Define-your-first-properties",
             "title": "04-Define-your-first-properties",
-            "done": false,
+            "done": true,
             "path": "exercises/04-Define-your-first-properties",
             "translations": [
                 "us"
@@ -73,7 +73,7 @@
         {
             "slug": "05-Constructor-Params",
             "title": "05-Constructor-Params",
-            "done": false,
+            "done": true,
             "path": "exercises/05-Constructor-Params",
             "translations": [
                 "us"
@@ -83,7 +83,7 @@
         {
             "slug": "06-Hello-world-with-classes",
             "title": "06-Hello-world-with-classes",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Hello-world-with-classes",
             "translations": [
                 "us"

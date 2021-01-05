@@ -1,12 +1,9 @@
 class Person{
-	constructor(name, lastName, birthDate){
-		this._name = name;
-		this._lastName = lastName;
-		this._birthDate = birthDate;
-    }
-    getName(){
-        return this._name
-    }
+	constructor(){
+		this._name = 'Bob';
+		this._lastName = 'Dylan';
+		this._birthDate = 'May 24, 1941';
+	}
 }
 
 //do not edit below this line
