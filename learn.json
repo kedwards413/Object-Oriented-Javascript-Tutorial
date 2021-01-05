@@ -93,7 +93,7 @@
         {
             "slug": "07-Print-with-Class-Printer",
             "title": "07-Print-with-Class-Printer",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Print-with-Class-Printer",
             "translations": [
                 "us"
@@ -103,7 +103,7 @@
         {
             "slug": "08-Create-simple-class",
             "title": "08-Create-simple-class",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Create-simple-class",
             "translations": [
                 "us"
@@ -113,7 +113,7 @@
         {
             "slug": "09-Calculated-property",
             "title": "09-Calculated-property",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Calculated-property",
             "translations": [
                 "us"
